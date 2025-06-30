@@ -1,0 +1,19 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\SharedFolder\0]
+"x"=dword:00000000
+"y"=dword:00000444
+"dpi"=dword:00000120
+"smooth screen"=dword:00000120
+"smooth x"=dword:00000120
+"smooth y"=dword:00000240
+"smooth sensitivity"=dword:00000120
+"touch sensitivity"="25,8"
+"touch speed "="11,6"
+"sensitive"=dword:00001000
+"lock"="0,2"
+"HoverTime"=dword:00010600
+"fix delay"=dword:00001000
+"AimLock"=dword:00000500
+"jeet"=""
+

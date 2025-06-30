@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"EnableContextDelay"=dword:00000000
+"EnablePreemption"=dword:00000001
+"ForceFlipTrueImmediateMode"=dword:00000001
+"ForceIndependentFlip"=dword:00000001
+"MaxYieldInterval"=dword:00000006
+"NumberOfDmaPacketPool"=dword:00000100
+"QuantumUnit"=dword:0003d090
+"QueuedPresentLimit"=dword:00000000
+"YieldPercentage"=dword:00000001
