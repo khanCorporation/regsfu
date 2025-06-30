@@ -1,7 +1,5 @@
 Windows Registry Editor Version 5.00                                                                                                                                                                                     youtube.com/AdamxYT
 
-;Registry File By Adamx
-;Disable Xbox Live Game Save
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\XblGameSave]
 "Start"=dword:00000004
 
